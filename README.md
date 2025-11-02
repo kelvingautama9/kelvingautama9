@@ -1,7 +1,7 @@
 # Hi there! I'm Vinns 😉
 
 
-As a **Marketing Staff** and **Web Developer**, I focus on blending digital strategy with powerful automation and **AI Prompter** techniques.
+As a **Marketing Staff**, **Web Developer**, **AI Prompter** I focus on blending digital strategy with powerful automation from **AI**.
 My goal is to build efficient solutions where code meets creativity.
 
 ---
