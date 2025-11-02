@@ -1,7 +1,9 @@
-# Hi there! I'm Vinns 😉
+# Hi there! I'm Kelvin 😉
 
 
-As a **Marketing Staff**, **Web Developer**, **AI Prompter** I focus on blending digital strategy with powerful automation from **AI**.
+As a **Marketing Staff**, **Web Developer**, **AI Prompter**.
+---
+I focus on blending digital strategy with powerful automation from AI.
 My goal is to build efficient solutions where code meets creativity.
 
 ---
@@ -31,14 +33,6 @@ My goal is to build efficient solutions where code meets creativity.
     <img src="https://github-readme-stats.vercel.app/api?username=kelvingautama9&show_icons=true&theme=onedark&hide_border=true&count_private=true&title_color=A0A0FF&icon_color=A0A0FF&text_color=FFFFFF" alt="GitHub Stats kelvingautama9" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvingautama9&layout=compact&theme=onedark&hide_border=true&title_color=A0A0FF&icon_color=A0A0FF&text_color=FFFFFF" alt="Top Languages kelvingautama9" />
     <img src="https://github-profile-trophy.vercel.app/?username=kelvingautama9&theme=onedark" alt="GitHub Trophy kelvingautama9" />
-</p>
-
----
-
-### 👁️ Visitor Count
-
-<p align="center">
-    <img src="https://profile-counter.glitch.me/kelvingautama9/count.svg" alt="Visitor Count for kelvingautama9" />
 </p>
 
 ---
