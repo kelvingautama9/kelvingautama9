@@ -1,7 +1,7 @@
 # Hi there! I'm Kelvin 😉
 
 
-As a **Marketing Staff**, **Web Developer**, **AI Prompter**.
+As a **Marketing Staff**, **Web Developer**, **AI Prompter**, **Vibe Coder**.
 ---
 I focus on blending digital strategy with powerful automation from AI.
 My goal is to build efficient solutions where code meets creativity.
